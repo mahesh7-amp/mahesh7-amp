@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mahesh7-amp
 - 👀 I’m interested in EV, Autopilot, UAV.
 - 🌱 I’m currently learning custom building of Linux and AWS.
-- 💞️ I’m looking to collaborate on building robots that helps to clean/protect environment.
+- 💞️ I’m looking to collaborate on building machines that assists in cleaning & protecting environment.
 - 📫 How to reach me [mahesh.reddy@automotivepower.com] [+91 8919122341]
 
 <!---
